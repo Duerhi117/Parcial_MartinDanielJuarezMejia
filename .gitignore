@@ -1,0 +1,70 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos y carpetas de Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+*.pidb
+*.booproj
+*.svd
+*.userprefs
+
+# Archivos de compilación
+*.csproj
+*.sln
+*.suo
+*.unityproj
+*.tmproj
+*.vcxproj
+*.pidb
+*.pdb
+
+# Archivos de sistema y configuraciones de IDE
+.idea/
+.vscode/
+.vscode/settings.json
+*.user
+*.userosscache
+*.sln.docstates
+
+# Configuración de paquete y cache de Unity
+[Uu]ser[Ss]ettings/
+# Ignore los paquetes descargados por el Package Manager
+[Pp]ackages/com.unity.package-manager*
+[Pp]ackages/com.unity.modules*
+[Pp]ackages/manifest.json.meta
+
+# Archivos de entorno y configuración local
+.env
+.env.local
+.env.*.local
+
+# Carpetas y archivos de compilación para WebGL
+Build/
+Builds/
+*.apk
+*.aab
+
+# Archivos de configuración de Visual Studio
+*.pidb.meta
+*.pdb.meta
+
+# Archivos generados por Unity
+*.stackdump
+*.coverage
+
+# Otros archivos que pueden generar conflictos
+.crash/
+crash-reports/
+
+# Archivos temporales y caché de Unity Hub
+unityhub/
+
+# Base de datos de Editor
+Asset.meta
