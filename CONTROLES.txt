@@ -1,0 +1,6 @@
+CONTROLES:
+
+A = Moverse a la Izquierda
+D = Moverse a la Derecha
+
+ESPACIO = Disparar
